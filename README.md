@@ -1,4 +1,4 @@
-#Splotify Playlist  Mood Analyzer
+#Spotify Playlist  Mood Analyzer
 
 #Project Overview
 The purpose of this project is to create an algorithm that analyzes and recommends new playlists to Spotify listeners based on their listening patterns, more specifically, the moods of the songs that they listen to. 
